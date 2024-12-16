@@ -1,3 +1,13 @@
+# ==========================================================
+# Dockerfile
+# ==========================================================
+# Title       : Semantic_suma_tensorRT8.x Dockerfile.
+# Description : A Dockerfile suitable for TensorRT 8.x versions.
+# Author      : [lijialu]
+# Created on  : [2024-12-16]
+# Updated on  : [2024-12-16]
+# ==========================================================
+
 # Use the specified version of the TensorRT image as the base image
 # 使用指定版本的 TensorRT 镜像作为基础镜像
 
